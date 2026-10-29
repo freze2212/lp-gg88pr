@@ -113,16 +113,6 @@
     "messenger_url": "https://gg8850.com/?id=951911210",
     "telegram_url": "https://gg8850.com/?id=951911210"
   },
-  "gg88am.com": {
-    "main_url": "https://www.gg8830.com/?id=208615560",
-    "messenger_url": "https://www.gg8830.com/?id=208615560",
-    "telegram_url": "https://www.gg8830.com/?id=208615560"
-  },
-  "www.gg88am.com": {
-    "main_url": "https://www.gg8830.com/?id=208615560",
-    "messenger_url": "https://www.gg8830.com/?id=208615560",
-    "telegram_url": "https://www.gg8830.com/?id=208615560"
-  },
   "gg88au.vip": {
     "main_url": "https://gg8842.com/?id=984094448",
     "messenger_url": "https://gg8842.com/?id=984094448",
@@ -182,5 +172,15 @@
     "main_url": "https://gg8817.com/?id=340055393",
     "messenger_url": "https://gg8817.com/?id=340055393",
     "telegram_url": "https://gg8817.com/?id=340055393"
+  },
+  "gg88am.com": {
+    "main_url": "https://www.gg8830.com/?id=771786600",
+    "messenger_url": "https://www.gg8830.com/?id=771786600",
+    "telegram_url": "https://www.gg8830.com/?id=771786600"
+  },
+  "www.gg88am.com": {
+    "main_url": "https://www.gg8830.com/?id=771786600",
+    "messenger_url": "https://www.gg8830.com/?id=771786600",
+    "telegram_url": "https://www.gg8830.com/?id=771786600"
   }
 }
